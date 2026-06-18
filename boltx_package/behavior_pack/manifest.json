@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "BOLTX MobTrap behavior pack",
+    "name": "BOLTX MobTrap (behavior)",
+    "uuid": "7b9f1d9a-7f9b-4cb2-9a5e-111111111111",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Script module",
+      "type": "scripting",
+      "uuid": "a6f3c5d2-8c2f-4b2f-9e3b-222222222222",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": []
+}

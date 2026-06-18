@@ -1,0 +1,18 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "boltx:boltx_tool",
+      "category": "Misc",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:display_name": "§0BOLTX TOOL",
+      "minecraft:creative_category": {
+        "category": "items",
+        "group": "tools"
+      }
+    }
+  }
+}
